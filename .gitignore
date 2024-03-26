@@ -1,0 +1,5 @@
+**/bin/
+# 01-HikeBenefitsSummary/bin/
+# 01-HikeBenefitsSummary/obj/*
+**/obj/
+
