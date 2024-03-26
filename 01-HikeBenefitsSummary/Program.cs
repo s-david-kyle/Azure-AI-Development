@@ -33,7 +33,7 @@ var completionOptions = new ChatCompletionsOptions
 
 
 //== Read markdown file  ==========
-string markdown = System.IO.File.ReadAllText("benefits.md");
+string markdown = System.IO.File.ReadAllText(@"C:\Source\AI\ai-samples\src\quickstarts\azure-openai-sdk\01-HikeBenefitsSummary\benefits.md");
 
 
 // == Starting the conversation ==========
