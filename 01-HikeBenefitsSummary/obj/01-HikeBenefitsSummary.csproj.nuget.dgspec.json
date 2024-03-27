@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\01-HikeBenefitsSummary\\01-HikeBenefitsSummary.csproj": {}
+    "C:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\01-HikeBenefitsSummary\\01-HikeBenefitsSummary.csproj": {}
   },
   "projects": {
-    "c:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\01-HikeBenefitsSummary\\01-HikeBenefitsSummary.csproj": {
+    "C:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\01-HikeBenefitsSummary\\01-HikeBenefitsSummary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\01-HikeBenefitsSummary\\01-HikeBenefitsSummary.csproj",
+        "projectUniqueName": "C:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\01-HikeBenefitsSummary\\01-HikeBenefitsSummary.csproj",
         "projectName": "01-HikeBenefitsSummary",
-        "projectPath": "c:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\01-HikeBenefitsSummary\\01-HikeBenefitsSummary.csproj",
+        "projectPath": "C:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\01-HikeBenefitsSummary\\01-HikeBenefitsSummary.csproj",
         "packagesPath": "C:\\Users\\sdavi\\.nuget\\packages\\",
-        "outputPath": "c:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\01-HikeBenefitsSummary\\obj\\",
+        "outputPath": "C:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\01-HikeBenefitsSummary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

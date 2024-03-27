@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02-HikerAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f0a75356bef47261d2a4c2b24e3fab7ff9dc697")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06b1f608a1f010df9a0854f43995d2976521c67f")]
 [assembly: System.Reflection.AssemblyProductAttribute("02-HikerAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02-HikerAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

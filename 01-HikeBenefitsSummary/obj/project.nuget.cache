@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eR7t6qUEA+J3YoXevMATJz2st5Ot+gNCBeo6wN+KICvP1ZLy+SKiYWZLOtFVvEw1+2qftm8bUsWSLpilOuAnNA==",
+  "dgSpecHash": "c7/FdPlO1yuCxKob/feayqKFgWEqyUQXgyD1B5IQikhvMqU7owIyvLTnt0J4Ya5fFQtTXWh9P7/W0KHj+l0CdQ==",
   "success": true,
-  "projectFilePath": "c:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\01-HikeBenefitsSummary\\01-HikeBenefitsSummary.csproj",
+  "projectFilePath": "C:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\01-HikeBenefitsSummary\\01-HikeBenefitsSummary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sdavi\\.nuget\\packages\\azure.ai.openai\\1.0.0-beta.13\\azure.ai.openai.1.0.0-beta.13.nupkg.sha512",
     "C:\\Users\\sdavi\\.nuget\\packages\\azure.core\\1.37.0\\azure.core.1.37.0.nupkg.sha512",

@@ -38,7 +38,7 @@ string markdown = System.IO.File.ReadAllText(@"C:\Source\AI\ai-samples\src\quick
 
 // == Starting the conversation ==========
 string userRequest = """
-Please summarize the the following text in 20 words or less:
+Please summarize the the following text in 5 words or less:
 """ + markdown;
 
 completionOptions.Messages.Add(new ChatRequestUserMessage(userRequest));
