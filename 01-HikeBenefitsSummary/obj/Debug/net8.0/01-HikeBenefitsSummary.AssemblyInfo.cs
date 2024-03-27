@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01-HikeBenefitsSummary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a1d0b86a85a9a88161a242ad2064d8f8677a05f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62e3e32d8f25ca861ced768d455e69a70f4227e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("01-HikeBenefitsSummary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01-HikeBenefitsSummary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

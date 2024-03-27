@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6lF/ThKROkwFoS13oqKyfs1xYCsioaea52yRkPoMy8HeQkcFYak3A9FaHrV/2Xebcmpv3NYDdYcRSZvBfKt0NQ==",
+  "dgSpecHash": "t90KkfJi9r3zREL6bXGaev6O4syFxOE5/azk8UjqfWGnq+HuxV3v+5+89zl0GQCFyLK5CcC1eQU91Ryqd+DZog==",
   "success": true,
-  "projectFilePath": "C:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\02-HikerAI\\02-HikerAI.csproj",
+  "projectFilePath": "c:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\02-HikerAI\\02-HikerAI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sdavi\\.nuget\\packages\\azure.ai.openai\\1.0.0-beta.13\\azure.ai.openai.1.0.0-beta.13.nupkg.sha512",
     "C:\\Users\\sdavi\\.nuget\\packages\\azure.core\\1.37.0\\azure.core.1.37.0.nupkg.sha512",

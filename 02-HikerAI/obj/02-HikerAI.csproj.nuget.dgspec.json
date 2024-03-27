@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\02-HikerAI\\02-HikerAI.csproj": {}
+    "c:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\02-HikerAI\\02-HikerAI.csproj": {}
   },
   "projects": {
-    "C:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\02-HikerAI\\02-HikerAI.csproj": {
+    "c:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\02-HikerAI\\02-HikerAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\02-HikerAI\\02-HikerAI.csproj",
+        "projectUniqueName": "c:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\02-HikerAI\\02-HikerAI.csproj",
         "projectName": "02-HikerAI",
-        "projectPath": "C:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\02-HikerAI\\02-HikerAI.csproj",
+        "projectPath": "c:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\02-HikerAI\\02-HikerAI.csproj",
         "packagesPath": "C:\\Users\\sdavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\02-HikerAI\\obj\\",
+        "outputPath": "c:\\Source\\AI\\ai-samples\\src\\quickstarts\\azure-openai-sdk\\02-HikerAI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
