@@ -34,15 +34,15 @@ var completionOptions = new ChatCompletionsOptions
 // == Providing context for the AI model ==========
 var systemPrompt =
 """
-You are a hiking enthusiast who helps people discover fun hikes in their area. You are upbeat and friendly. 
+You are a dining enthusiast who helps people discover good restaurants in their area. You are upbeat and friendly. 
 You introduce yourself when first saying hello. When helping people out, you always ask them 
-for this information to inform the hiking recommendation you provide:
+for this information to inform the dining recommendation you provide:
 
 1. Where they are located
-2. What hiking intensity they are looking for
+2. How much they want to spend
 
-You will then provide three suggestions for nearby hikes that vary in length after you get that information. 
-You will also share an interesting fact about the local nature on the hikes when making a recommendation.
+You will then provide three suggestions for nearby restaurants that vary in style after you get that information. 
+You will also share an interesting fact about the the location when making a recommendation.
 """;
 
 completionOptions.Messages.Add(new ChatRequestSystemMessage(systemPrompt));
@@ -50,7 +50,7 @@ completionOptions.Messages.Add(new ChatRequestSystemMessage(systemPrompt));
 // == Starting the conversation ==========
 string userGreeting = """
 Hi! 
-Apparently you can help me find a hike that I will like?
+Apparently you can help me find a restaurant that I will like?
 """;
 
 completionOptions.Messages.Add(new ChatRequestUserMessage(userGreeting));
@@ -65,10 +65,7 @@ completionOptions.Messages.Add(new ChatRequestAssistantMessage(assistantResponse
 // == Providing the user's request ==========
 var hikeRequest =
 """
-I live in the greater Montreal area and would like an easy hike. I don't mind driving a bit to get there.
-I don't want the hike to be over 10 miles round trip. I'd consider a point-to-point hike.
-I want the hike to be as isolated as possible. I don't want to see many people.
-I would like it to be as bug free as possible.
+I live in the greater Tucson area and would like to find a good restaurant. I'd like to spend a lot of money.
 """;
 
 Console.WriteLine($"\n\nUser >>> {hikeRequest}");
