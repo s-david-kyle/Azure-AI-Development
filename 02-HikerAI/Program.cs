@@ -30,7 +30,7 @@ var completionOptions = new ChatCompletionsOptions
     NucleusSamplingFactor = 0.95f, // Top P
     DeploymentName = openAIDeploymentName
 };
-
+//tester
 // == Providing context for the AI model ==========
 var systemPrompt =
 """
