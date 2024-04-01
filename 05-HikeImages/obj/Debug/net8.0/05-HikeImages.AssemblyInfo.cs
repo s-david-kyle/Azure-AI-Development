@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05-HikeImages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a1d0b86a85a9a88161a242ad2064d8f8677a05f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff707c2e5515f4382204612c6f6541e4dbd50586")]
 [assembly: System.Reflection.AssemblyProductAttribute("05-HikeImages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05-HikeImages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
