@@ -36,6 +36,8 @@ string markdown = System.IO.File.ReadAllText("hikes.md");
 string temper = "holla!";
 
 Console.WriteLine($"\n\n\t\t-=-=- Hiking History -=-=--\n{markdown}" + temper);
+Console.WriteLine($"\n\n\t\t-=-=- Hiking History -=-=--\n{markdown}" + temper);
+
 
 
 // == Providing context for the AI model ==========
